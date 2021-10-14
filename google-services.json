@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650099746316",
+    "project_id": "whtsapp-b1699",
+    "storage_bucket": "whtsapp-b1699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650099746316:android:481915f8703290c08f7029",
+        "android_client_info": {
+          "package_name": "com.example.whtsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650099746316-6e7bc1493ifjr52cp52e1vjel031p1ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwzu7ltoc2PyPM5okrZYt4PshGDC0NBzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650099746316-6e7bc1493ifjr52cp52e1vjel031p1ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
